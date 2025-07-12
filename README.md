@@ -1,4 +1,4 @@
-# 🏦 Hana Travelog AI ChatBot 
+# 🏦 Hana Travlog AI ChatBot 
 
 하나카드 트래블로그 카드 상담을 위한 RAG 기반 AI 챗봇입니다. LangGraph와 LLaMA 3.1을 활용하여 사용자 질문에 대한 답변을 제공합니다.
 
